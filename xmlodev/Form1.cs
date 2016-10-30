@@ -29,7 +29,7 @@ namespace xmlodev
 
             foreach (XmlElement siradakiElement in urunElements)
             {
-                var siradakiElementOzellikleri = "";
+                //var siradakiElementOzellikleri = "";
 
                 Urun yeniUrun = new Urun();
 
